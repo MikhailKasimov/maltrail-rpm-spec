@@ -24,6 +24,8 @@ Mageia Cauldron
 SUSE Linux Enterprise 15 SP2
 SUSE Linux Enterprise 15 SP3
 ScientificLinux 7
+openEuler 20.03
+openEuler 21.03
 openSUSE Factory ARM
 openSUSE Factory PowerPC
 openSUSE Factory RISCV
