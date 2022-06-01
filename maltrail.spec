@@ -127,5 +127,8 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %{_unitdir}/%{name}-ips.timer
 
 %changelog
+* Wed Jun 01 2022 - mikhail.kasimov@gmail.com
+  - Version 0.46 (release)
+
 * Tue May 03 2022 - mikhail.kasimov@gmail.com
-- Version 0.45 (release)
+  - Version 0.45 (release)
