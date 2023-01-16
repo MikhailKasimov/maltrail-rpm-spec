@@ -17,7 +17,7 @@
 
 
 Name:           maltrail
-Version:        0.52
+Version:        0.53
 Release:        0
 Summary:        Malicious Traffic Detection System
 Group:          Productivity/Security
