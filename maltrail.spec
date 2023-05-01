@@ -17,7 +17,7 @@
 
 
 Name:           maltrail
-Version:        0.54
+Version:        0.57
 Release:        0
 Summary:        Malicious Traffic Detection System
 Group:          Productivity/Security
@@ -127,6 +127,36 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %{_unitdir}/%{name}-ips.timer
 
 %changelog
+* Mon May 01 2023 - mikhail.kasimov@gmail.com
+  - Version 0.57 (release)
+  
+* Sat Apr 01 2023 - mikhail.kasimov@gmail.com
+  - Version 0.56 (release)
+  
+* Wed Mar 01 2023 - mikhail.kasimov@gmail.com
+  - Version 0.55 (release)
+
+* Wed Feb 01 2023 - mikhail.kasimov@gmail.com
+  - Version 0.54 (release)
+  
+* Sun Jan 01 2023 - mikhail.kasimov@gmail.com
+  - Version 0.53 (release)
+
+* Fri Dec 02 2022 - mikhail.kasimov@gmail.com
+  - Version 0.52 (release)
+  
+* Tue Nov 01 2022 - mikhail.kasimov@gmail.com
+  - Version 0.51 (release)
+
+* Sun Oct 02 2022 - mikhail.kasimov@gmail.com
+  - Version 0.50 (release)
+
+* Fri Sep 02 2022 - mikhail.kasimov@gmail.com
+  - Version 0.49 (release)
+
+* Fri Aug 05 2022 - mikhail.kasimov@gmail.com
+  - Version 0.48 (release)
+  
 * Wed Jul 01 2022 - mikhail.kasimov@gmail.com
   - Version 0.47 (release)
   
