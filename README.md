@@ -18,6 +18,8 @@ Fedora 33
 Fedora 34
 Fedora 35
 Fedora 36
+Fedora 37
+Fedora 38
 Fedora Rawhide
 Mageia 7
 Mageia 8
