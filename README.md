@@ -38,6 +38,7 @@ openSUSE Leap 15.2 ARM
 openSUSE Leap 15.2 PowerPC
 openSUSE Leap 15.3
 openSUSE Leap 15.4
+openSUSE Leap 15.5
 openSUSE Tumbleweed
 ```
 
