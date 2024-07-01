@@ -129,9 +129,12 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %changelog
 * Mon Jul 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.71 (release)
+
+* Sat May 01 2024 - mikhail.kasimov@gmail.com
+  - Version 0.70 (release)
   
 * Thu May 01 2024 - mikhail.kasimov@gmail.com
-  - Version 0.70 (release)
+  - Version 0.69 (release)
   
 * Mon Apr 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.68 (release)
