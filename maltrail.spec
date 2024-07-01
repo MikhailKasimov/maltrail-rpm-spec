@@ -130,7 +130,7 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 * Mon Jul 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.71 (release)
 
-* Sat May 01 2024 - mikhail.kasimov@gmail.com
+* Sat Jun 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.70 (release)
   
 * Thu May 01 2024 - mikhail.kasimov@gmail.com
