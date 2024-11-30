@@ -127,7 +127,7 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %{_unitdir}/%{name}-ips.timer
 
 %changelog
-* Sun Nov 01 2024 - mikhail.kasimov@gmail.com
+* Sun Dec 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.76 (release)
 
 * Fri Nov 01 2024 - mikhail.kasimov@gmail.com
