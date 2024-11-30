@@ -20,6 +20,9 @@ Fedora 35
 Fedora 36
 Fedora 37
 Fedora 38
+Fedora 39
+Fedora 40
+Fedora 41
 Fedora Rawhide
 Mageia 7
 Mageia 8
@@ -39,6 +42,7 @@ openSUSE Leap 15.2 PowerPC
 openSUSE Leap 15.3
 openSUSE Leap 15.4
 openSUSE Leap 15.5
+openSUSE Leap 15.6
 openSUSE Tumbleweed
 ```
 
