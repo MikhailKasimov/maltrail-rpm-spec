@@ -1,7 +1,7 @@
 #
 # spec file for package maltrail
 #
-# Copyright (c) 2024 SUSE LLC
+# Copyright (c) 2025 SUSE LLC
 #
 # All modifications and additions to the file contributed by third parties
 # remain the property of their copyright owners, unless otherwise agreed
@@ -17,7 +17,7 @@
 
 
 Name:           maltrail
-Version:        0.76
+Version:        0.77
 Release:        0
 Summary:        Malicious Traffic Detection System
 Group:          Productivity/Security
@@ -127,6 +127,9 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %{_unitdir}/%{name}-ips.timer
 
 %changelog
+* Wed Jan 01 2025 - mikhail.kasimov@gmail.com
+  - Version 0.77 (release)
+  
 * Sun Dec 01 2024 - mikhail.kasimov@gmail.com
   - Version 0.76 (release)
 
