@@ -131,7 +131,7 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
    - Version 0.86 (release)
    
 * Mon Sep 01 2025 - mikhail.kasimov@gmail.com
-   - Version 0.86 (release)
+   - Version 0.85 (release)
    
 * Fri Aug 01 2025 - mikhail.kasimov@gmail.com
    - Version 0.84 (release)
