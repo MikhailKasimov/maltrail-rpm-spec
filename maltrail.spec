@@ -17,7 +17,7 @@
 
 
 Name:           maltrail
-Version:        0.89
+Version:        1.2
 Release:        0
 Summary:        Malicious Traffic Detection System
 Group:          Productivity/Security
@@ -127,6 +127,9 @@ chmod +x %{buildroot}/opt/%{name}/%{name}-ips.sh
 %{_unitdir}/%{name}-ips.timer
 
 %changelog
+* Sun Mar 01 2026 - mikhail.kasimov@gmail.com
+   - Version 1.2 (release)
+   
 * Thu Jan 01 2026 - mikhail.kasimov@gmail.com
    - Version 0.89 (release)
    
